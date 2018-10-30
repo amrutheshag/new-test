@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+ <listeners>
+    <listener class-name="com.org.actiTime.customListners.ListenerinSelenium"></listener>
+  </listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.org.actiTime.actiTime.TC001LoginLogoutTest"/>
+      <class name="com.org.actiTime.actiTime.TC003CeateUsers"/>
+      <class name="com.org.actiTime.actiTime.TC004DeleteUsers"/>
+      <class name="com.org.actiTime.actiTime.TC005CreateBillingType"/>
+      <class name="com.org.actiTime.actiTime.TC006DeleteBillingType"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test1">
+    <classes>
+      <class name="com.org.actiTime.task.TC001CreateCustomer"/>
+      <class name="com.org.actiTime.task.TC002CreateProject"/>
+      <class name="com.org.actiTime.task.TC003CreateCustomerAndProject"/>
+      <class name="com.org.actiTime.task.TC005DeleteProject"/>
+      <class name="com.org.actiTime.task.TC004DeleteCustomerAndProject"/>
+    </classes>
+  </test> <!-- Test1 -->
+</suite> <!-- Suite -->

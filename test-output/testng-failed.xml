@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="com.org.actiTime.customListners.ListenerinSelenium"/>
+  </listeners>
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.org.actiTime.actiTime.TC004DeleteUsers">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC004DeleteUsers -->
+      <class name="com.org.actiTime.task.TC004DeleteCustomerAndProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC004DeleteCustomerAndProject -->
+      <class name="com.org.actiTime.actiTime.TC005CreateBillingType">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC005CreateBillingType -->
+      <class name="com.org.actiTime.actiTime.TC003CeateUsers">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="createUsers" invocation-numbers="1"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC003CeateUsers -->
+      <class name="com.org.actiTime.task.TC003CreateCustomerAndProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC003CreateCustomerAndProject -->
+      <class name="com.org.actiTime.task.TC001CreateCustomer">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC001CreateCustomer -->
+      <class name="com.org.actiTime.task.TC002CreateProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC002CreateProject -->
+      <class name="com.org.actiTime.task.TC005DeleteProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC005DeleteProject -->
+      <class name="com.org.actiTime.actiTime.TC001LoginLogoutTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="loginTest" invocation-numbers="1 2"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC001LoginLogoutTest -->
+      <class name="com.org.actiTime.actiTime.TC006DeleteBillingType">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC006DeleteBillingType -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test name="Test1(failed)" parallel="none">
+    <classes>
+      <class name="com.org.actiTime.actiTime.TC004DeleteUsers">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC004DeleteUsers -->
+      <class name="com.org.actiTime.task.TC004DeleteCustomerAndProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC004DeleteCustomerAndProject -->
+      <class name="com.org.actiTime.actiTime.TC005CreateBillingType">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC005CreateBillingType -->
+      <class name="com.org.actiTime.task.TC003CreateCustomerAndProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="createCustomersAndProjects" invocation-numbers="1"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC003CreateCustomerAndProject -->
+      <class name="com.org.actiTime.actiTime.TC003CeateUsers">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC003CeateUsers -->
+      <class name="com.org.actiTime.task.TC001CreateCustomer">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC001CreateCustomer -->
+      <class name="com.org.actiTime.task.TC002CreateProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC002CreateProject -->
+      <class name="com.org.actiTime.task.TC005DeleteProject">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.task.TC005DeleteProject -->
+      <class name="com.org.actiTime.actiTime.TC001LoginLogoutTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC001LoginLogoutTest -->
+      <class name="com.org.actiTime.actiTime.TC006DeleteBillingType">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.org.actiTime.actiTime.TC006DeleteBillingType -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

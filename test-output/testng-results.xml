@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="3" failed="1" total="14" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\loginTest_04_58_2018_05_58_42.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\loginTest_04_58_2018_05_58_42.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\failureScreenshot\loginTest_04_59_2018_05_59_14.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\failureScreenshot\loginTest_04_59_2018_05_59_14.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\blank_04_05_2018_05_59_14.png'> <img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\blank_04_05_2018_05_59_14.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createUsers_04_00_2018_06_00_51.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createUsers_04_00_2018_06_00_51.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteUsers_04_01_2018_06_01_51.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteUsers_04_01_2018_06_01_51.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createBillingType_04_04_2018_06_04_22.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createBillingType_04_04_2018_06_04_22.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\DeleteBillingType_04_05_2018_06_05_50.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\DeleteBillingType_04_05_2018_06_05_50.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\verifySuccessMessageCreateCustomer_04_05_2018_06_08_25.png'> <img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\verifySuccessMessageCreateCustomer_04_05_2018_06_08_25.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomer_04_08_2018_06_08_56.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomer_04_08_2018_06_08_56.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createProject_04_12_2018_06_12_02.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createProject_04_12_2018_06_12_02.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomersAndProjects_04_14_2018_06_14_40.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomersAndProjects_04_14_2018_06_14_40.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteProject_04_16_2018_06_16_16.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteProject_04_16_2018_06_16_16.png' height='100' wideth='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteCustomerAndProject_04_17_2018_06_17_49.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteCustomerAndProject_04_17_2018_06_17_49.png' height='100' wideth='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1240368" started-at="2018-05-04T09:57:12Z" finished-at="2018-05-04T10:17:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="521579" started-at="2018-05-04T09:57:12Z" finished-at="2018-05-04T10:05:54Z">
+      <class name="com.org.actiTime.actiTime.TC001LoginLogoutTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="launch" is-config="true" duration-ms="19522" started-at="2018-05-04T05:57:12Z" finished-at="2018-05-04T05:57:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="beforeMethod" is-config="true" duration-ms="15" started-at="2018-05-04T05:57:35Z" finished-at="2018-05-04T05:57:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC001LoginLogoutTest.loginTest(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="loginTest" duration-ms="67333" started-at="2018-05-04T05:57:35Z" data-provider="LoginTestData" finished-at="2018-05-04T05:58:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\loginTest_04_58_2018_05_58_42.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\loginTest_04_58_2018_05_58_42.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-05-04T05:58:42Z" finished-at="2018-05-04T05:58:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC001LoginLogoutTest.loginTest(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T05:58:42Z" finished-at="2018-05-04T05:58:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=TC001LoginLogoutTest.loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\loginTest_04_58_2018_05_58_42.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\loginTest_04_58_2018_05_58_42.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="FAIL" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="loginTest" duration-ms="31380" started-at="2018-05-04T05:58:42Z" data-provider="LoginTestData" finished-at="2018-05-04T05:59:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:288)
+	at org.testng.Assert.assertEquals(Assert.java:298)
+	at com.org.actiTime.actiTime.TC001LoginLogoutTest.loginTest(TC001LoginLogoutTest.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:648)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:834)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1142)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1176)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1101)
+	at org.testng.TestNG.run(TestNG.java:1009)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\failureScreenshot\loginTest_04_59_2018_05_59_14.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\failureScreenshot\loginTest_04_59_2018_05_59_14.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="afterMethod" is-config="true" duration-ms="315" started-at="2018-05-04T05:59:14Z" finished-at="2018-05-04T05:59:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=FAILURE method=TC001LoginLogoutTest.loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\failureScreenshot\loginTest_04_59_2018_05_59_14.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\failureScreenshot\loginTest_04_59_2018_05_59_14.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\blank_04_05_2018_05_59_14.png'> <img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\blank_04_05_2018_05_59_14.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-05-04T05:59:14Z" finished-at="2018-05-04T05:59:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC001LoginLogoutTest.loginTest(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="loginTest" duration-ms="5" started-at="2018-05-04T05:59:14Z" data-provider="LoginTestData" finished-at="2018-05-04T05:59:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[user marked this record as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: user marked this record as no run
+	at com.org.actiTime.actiTime.TC001LoginLogoutTest.loginTest(TC001LoginLogoutTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:648)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:834)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1142)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1176)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1101)
+	at org.testng.TestNG.run(TestNG.java:1009)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="afterMethod" is-config="true" duration-ms="5" started-at="2018-05-04T05:59:15Z" finished-at="2018-05-04T05:59:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SKIP method=TC001LoginLogoutTest.loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.actiTime.TC001LoginLogoutTest@78186a70]" name="quit" is-config="true" duration-ms="5293" started-at="2018-05-04T05:59:15Z" finished-at="2018-05-04T05:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.actiTime.TC001LoginLogoutTest -->
+      <class name="com.org.actiTime.actiTime.TC005CreateBillingType">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.actiTime.TC005CreateBillingType@376b4233]" name="launch" is-config="true" duration-ms="15960" started-at="2018-05-04T06:01:54Z" finished-at="2018-05-04T06:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC005CreateBillingType@376b4233]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:02:10Z" finished-at="2018-05-04T06:02:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC005CreateBillingType.createBillingType()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createBillingType()[pri:0, instance:com.org.actiTime.actiTime.TC005CreateBillingType@376b4233]" name="createBillingType" duration-ms="132153" started-at="2018-05-04T06:02:10Z" finished-at="2018-05-04T06:04:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createBillingType_04_04_2018_06_04_22.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createBillingType_04_04_2018_06_04_22.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createBillingType -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC005CreateBillingType@376b4233]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:04:22Z" finished-at="2018-05-04T06:04:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createBillingType status=SUCCESS method=TC005CreateBillingType.createBillingType()[pri:0, instance:com.org.actiTime.actiTime.TC005CreateBillingType@376b4233] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createBillingType_04_04_2018_06_04_22.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createBillingType_04_04_2018_06_04_22.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.actiTime.TC005CreateBillingType@376b4233]" name="quit" is-config="true" duration-ms="3261" started-at="2018-05-04T06:04:22Z" finished-at="2018-05-04T06:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.actiTime.TC005CreateBillingType -->
+      <class name="com.org.actiTime.actiTime.TC004DeleteUsers">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.actiTime.TC004DeleteUsers@4fcd19b3]" name="launch" is-config="true" duration-ms="15927" started-at="2018-05-04T06:00:55Z" finished-at="2018-05-04T06:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="deleteUsers()[pri:0, instance:com.org.actiTime.actiTime.TC004DeleteUsers@4fcd19b3]" name="deleteUsers" duration-ms="40442" started-at="2018-05-04T06:01:11Z" finished-at="2018-05-04T06:01:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteUsers_04_01_2018_06_01_51.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteUsers_04_01_2018_06_01_51.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteUsers -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC004DeleteUsers@4fcd19b3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:01:11Z" finished-at="2018-05-04T06:01:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC004DeleteUsers.deleteUsers()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC004DeleteUsers@4fcd19b3]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-05-04T06:01:51Z" finished-at="2018-05-04T06:01:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteUsers status=SUCCESS method=TC004DeleteUsers.deleteUsers()[pri:0, instance:com.org.actiTime.actiTime.TC004DeleteUsers@4fcd19b3] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteUsers_04_01_2018_06_01_51.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteUsers_04_01_2018_06_01_51.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.actiTime.TC004DeleteUsers@4fcd19b3]" name="quit" is-config="true" duration-ms="2692" started-at="2018-05-04T06:01:51Z" finished-at="2018-05-04T06:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.actiTime.TC004DeleteUsers -->
+      <class name="com.org.actiTime.actiTime.TC003CeateUsers">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="launch" is-config="true" duration-ms="16103" started-at="2018-05-04T05:59:20Z" finished-at="2018-05-04T05:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-04T05:59:36Z" finished-at="2018-05-04T05:59:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC003CeateUsers.createUsers(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="createUsers" duration-ms="74653" started-at="2018-05-04T05:59:36Z" data-provider="users" finished-at="2018-05-04T06:00:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Venkata]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ramana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Reddy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kvrr0248@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ramana]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createUsers_04_00_2018_06_00_51.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createUsers_04_00_2018_06_00_51.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createUsers -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-05-04T06:00:51Z" finished-at="2018-05-04T06:00:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC003CeateUsers.createUsers(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:00:51Z" finished-at="2018-05-04T06:00:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createUsers status=SUCCESS method=TC003CeateUsers.createUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createUsers_04_00_2018_06_00_51.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createUsers_04_00_2018_06_00_51.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="createUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="createUsers" duration-ms="5" started-at="2018-05-04T06:00:51Z" data-provider="users" finished-at="2018-05-04T06:00:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Reddy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ravikumar@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ravi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[user marked this record as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: user marked this record as no run
+	at com.org.actiTime.actiTime.TC003CeateUsers.createUsers(TC003CeateUsers.java:24)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:648)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:834)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1142)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1176)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1101)
+	at org.testng.TestNG.run(TestNG.java:1009)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsers -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:00:51Z" finished-at="2018-05-04T06:00:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createUsers status=SKIP method=TC003CeateUsers.createUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.actiTime.TC003CeateUsers@5204062d]" name="quit" is-config="true" duration-ms="3536" started-at="2018-05-04T06:00:51Z" finished-at="2018-05-04T06:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.actiTime.TC003CeateUsers -->
+      <class name="com.org.actiTime.actiTime.TC006DeleteBillingType">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.actiTime.TC006DeleteBillingType@2fd66ad3]" name="launch" is-config="true" duration-ms="15958" started-at="2018-05-04T06:04:26Z" finished-at="2018-05-04T06:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.actiTime.TC006DeleteBillingType@2fd66ad3]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-04T06:04:41Z" finished-at="2018-05-04T06:04:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.actiTime.TC006DeleteBillingType.DeleteBillingType()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DeleteBillingType()[pri:0, instance:com.org.actiTime.actiTime.TC006DeleteBillingType@2fd66ad3]" name="DeleteBillingType" duration-ms="68484" started-at="2018-05-04T06:04:41Z" finished-at="2018-05-04T06:05:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\DeleteBillingType_04_05_2018_06_05_50.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\DeleteBillingType_04_05_2018_06_05_50.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DeleteBillingType -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.actiTime.TC006DeleteBillingType@2fd66ad3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:05:50Z" finished-at="2018-05-04T06:05:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeleteBillingType status=SUCCESS method=TC006DeleteBillingType.DeleteBillingType()[pri:0, instance:com.org.actiTime.actiTime.TC006DeleteBillingType@2fd66ad3] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\DeleteBillingType_04_05_2018_06_05_50.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\DeleteBillingType_04_05_2018_06_05_50.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.actiTime.TC006DeleteBillingType@2fd66ad3]" name="quit" is-config="true" duration-ms="3321" started-at="2018-05-04T06:05:50Z" finished-at="2018-05-04T06:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.actiTime.TC006DeleteBillingType -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="718699" started-at="2018-05-04T10:05:54Z" finished-at="2018-05-04T10:17:52Z">
+      <class name="com.org.actiTime.task.TC004DeleteCustomerAndProject">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.task.TC004DeleteCustomerAndProject@7ba18f1b]" name="launch" is-config="true" duration-ms="16751" started-at="2018-05-04T06:16:19Z" finished-at="2018-05-04T06:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.task.TC004DeleteCustomerAndProject@7ba18f1b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-04T06:16:36Z" finished-at="2018-05-04T06:16:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.task.TC004DeleteCustomerAndProject.deleteCustomerAndProject()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="deleteCustomerAndProject()[pri:0, instance:com.org.actiTime.task.TC004DeleteCustomerAndProject@7ba18f1b]" name="deleteCustomerAndProject" duration-ms="72526" started-at="2018-05-04T06:16:36Z" finished-at="2018-05-04T06:17:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteCustomerAndProject_04_17_2018_06_17_49.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteCustomerAndProject_04_17_2018_06_17_49.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerAndProject -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.task.TC004DeleteCustomerAndProject@7ba18f1b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:17:49Z" finished-at="2018-05-04T06:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteCustomerAndProject status=SUCCESS method=TC004DeleteCustomerAndProject.deleteCustomerAndProject()[pri:0, instance:com.org.actiTime.task.TC004DeleteCustomerAndProject@7ba18f1b] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteCustomerAndProject_04_17_2018_06_17_49.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteCustomerAndProject_04_17_2018_06_17_49.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.task.TC004DeleteCustomerAndProject@7ba18f1b]" name="quit" is-config="true" duration-ms="3284" started-at="2018-05-04T06:17:49Z" finished-at="2018-05-04T06:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.task.TC004DeleteCustomerAndProject -->
+      <class name="com.org.actiTime.task.TC001CreateCustomer">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.task.TC001CreateCustomer@61ca2dfa]" name="launch" is-config="true" duration-ms="15973" started-at="2018-05-04T06:05:54Z" finished-at="2018-05-04T06:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.task.TC001CreateCustomer@61ca2dfa]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-04T06:06:10Z" finished-at="2018-05-04T06:06:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.task.TC001CreateCustomer.createCustomer()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createCustomer()[pri:0, instance:com.org.actiTime.task.TC001CreateCustomer@61ca2dfa]" name="createCustomer" duration-ms="166577" started-at="2018-05-04T06:06:10Z" finished-at="2018-05-04T06:08:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\verifySuccessMessageCreateCustomer_04_05_2018_06_08_25.png'> <img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\verifySuccessMessageCreateCustomer_04_05_2018_06_08_25.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomer_04_08_2018_06_08_56.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomer_04_08_2018_06_08_56.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.task.TC001CreateCustomer@61ca2dfa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:08:56Z" finished-at="2018-05-04T06:08:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createCustomer status=SUCCESS method=TC001CreateCustomer.createCustomer()[pri:0, instance:com.org.actiTime.task.TC001CreateCustomer@61ca2dfa] output=<a href='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\verifySuccessMessageCreateCustomer_04_05_2018_06_08_25.png'> <img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\screenshot\verifySuccessMessageCreateCustomer_04_05_2018_06_08_25.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.task.TC001CreateCustomer@61ca2dfa]" name="quit" is-config="true" duration-ms="3241" started-at="2018-05-04T06:08:56Z" finished-at="2018-05-04T06:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.task.TC001CreateCustomer -->
+      <class name="com.org.actiTime.task.TC003CreateCustomerAndProject">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="launch" is-config="true" duration-ms="16044" started-at="2018-05-04T06:12:06Z" finished-at="2018-05-04T06:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:12:23Z" finished-at="2018-05-04T06:12:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.task.TC003CreateCustomerAndProject.createCustomersAndProjects(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createCustomersAndProjects(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="createCustomersAndProjects" duration-ms="136993" started-at="2018-05-04T06:12:23Z" data-provider="Craete Customer and Project" finished-at="2018-05-04T06:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramana Reddy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ramana Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kvr import & Exports Business]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Imports & Exports]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomersAndProjects_04_14_2018_06_14_40.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomersAndProjects_04_14_2018_06_14_40.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCustomersAndProjects -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:14:40Z" finished-at="2018-05-04T06:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createCustomersAndProjects status=SUCCESS method=TC003CreateCustomerAndProject.createCustomersAndProjects(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomersAndProjects_04_14_2018_06_14_40.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createCustomersAndProjects_04_14_2018_06_14_40.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:14:40Z" finished-at="2018-05-04T06:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.task.TC003CreateCustomerAndProject.createCustomersAndProjects(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="createCustomersAndProjects(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="createCustomersAndProjects" duration-ms="0" started-at="2018-05-04T06:14:40Z" data-provider="Craete Customer and Project" finished-at="2018-05-04T06:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi Kumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ravi Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ksr import & Exports Business]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tansportation]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[user marked this record as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: user marked this record as no run
+	at com.org.actiTime.task.TC003CreateCustomerAndProject.createCustomersAndProjects(TC003CreateCustomerAndProject.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:648)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:834)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1142)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1176)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1101)
+	at org.testng.TestNG.run(TestNG.java:1009)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomersAndProjects -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="quit" is-config="true" duration-ms="3324" started-at="2018-05-04T06:14:40Z" finished-at="2018-05-04T06:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:14:40Z" finished-at="2018-05-04T06:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createCustomersAndProjects status=SKIP method=TC003CreateCustomerAndProject.createCustomersAndProjects(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.org.actiTime.task.TC003CreateCustomerAndProject@134593bf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.org.actiTime.task.TC003CreateCustomerAndProject -->
+      <class name="com.org.actiTime.task.TC005DeleteProject">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.task.TC005DeleteProject@4bb4de6a]" name="launch" is-config="true" duration-ms="16205" started-at="2018-05-04T06:14:43Z" finished-at="2018-05-04T06:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.task.TC005DeleteProject@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:14:59Z" finished-at="2018-05-04T06:14:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.task.TC005DeleteProject.deleteProject()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="deleteProject()[pri:0, instance:com.org.actiTime.task.TC005DeleteProject@4bb4de6a]" name="deleteProject" duration-ms="76424" started-at="2018-05-04T06:14:59Z" finished-at="2018-05-04T06:16:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteProject_04_16_2018_06_16_16.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteProject_04_16_2018_06_16_16.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.task.TC005DeleteProject@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:16:16Z" finished-at="2018-05-04T06:16:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteProject status=SUCCESS method=TC005DeleteProject.deleteProject()[pri:0, instance:com.org.actiTime.task.TC005DeleteProject@4bb4de6a] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteProject_04_16_2018_06_16_16.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\deleteProject_04_16_2018_06_16_16.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.task.TC005DeleteProject@4bb4de6a]" name="quit" is-config="true" duration-ms="3392" started-at="2018-05-04T06:16:16Z" finished-at="2018-05-04T06:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.task.TC005DeleteProject -->
+      <class name="com.org.actiTime.task.TC002CreateProject">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.org.actiTime.task.TC002CreateProject@4b53f538]" name="launch" is-config="true" duration-ms="16099" started-at="2018-05-04T06:09:00Z" finished-at="2018-05-04T06:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.org.actiTime.task.TC002CreateProject@4b53f538]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-05-04T06:09:16Z" finished-at="2018-05-04T06:09:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.org.actiTime.task.TC002CreateProject.createProject()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createProject()[pri:0, instance:com.org.actiTime.task.TC002CreateProject@4b53f538]" name="createProject" duration-ms="166517" started-at="2018-05-04T06:09:16Z" finished-at="2018-05-04T06:12:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createProject_04_12_2018_06_12_02.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createProject_04_12_2018_06_12_02.png' height='100' wideth='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.org.actiTime.task.TC002CreateProject@4b53f538]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-04T06:12:03Z" finished-at="2018-05-04T06:12:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createProject status=SUCCESS method=TC002CreateProject.createProject()[pri:0, instance:com.org.actiTime.task.TC002CreateProject@4b53f538] output=<a href= 'E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createProject_04_12_2018_06_12_02.png' ><img src='E:\JavaProject\actiTime\src\main\java\com\org\actiTime\successScreenshot\createProject_04_12_2018_06_12_02.png' height='100' wideth='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.org.actiTime.task.TC002CreateProject@4b53f538]" name="quit" is-config="true" duration-ms="3715" started-at="2018-05-04T06:12:03Z" finished-at="2018-05-04T06:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.org.actiTime.task.TC002CreateProject -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
